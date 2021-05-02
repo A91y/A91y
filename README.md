@@ -29,6 +29,10 @@
         <span><strong>DJANGO</strong></span><br><br><br>
         <img width="104px" src="https://cdn.svgporn.com/logos/django-icon.svg">
       </td>
+      <td width="15%" align="center">
+        <span><strong>BOOTSTRAP</strong></span><br><br><br>
+        <img width="104px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
       </tbody>
 </table>
 <br>
