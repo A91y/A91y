@@ -25,7 +25,11 @@
         <span><strong>PYTHON</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-            <td width="15%" align="center">
+      <td width="15%" align="center">
+        <span><strong>C</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+       <td width="15%" align="center">
         <span><strong>DJANGO</strong></span><br><br><br>
         <img width="104px" src="https://cdn.svgporn.com/logos/django-icon.svg">
       </td>
