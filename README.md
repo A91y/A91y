@@ -34,8 +34,10 @@
         <img width="104px" src="https://cdn.svgporn.com/logos/django-icon.svg">
       </td>
       <td width="15%" align="center">
-        <span><strong>BOOTSTRAP</strong></span><br><br><br>
-        <img width="104px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+        <a href="https://getbootstrap.com/">
+          <span><strong>BOOTSTRAP</strong></span><br><br><br>
+          <img width="104px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+        </a>
       </td>
       </tbody>
 </table>
