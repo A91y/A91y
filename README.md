@@ -57,6 +57,9 @@
   <a href="https://twitter.com/AyushAgr91">
     <img align="left" width="30px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
+  <a href="https://linkedin.com/in/AyushAgr91">
+    <img align="left" width="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />
+  </a>
   
 
 
