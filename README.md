@@ -43,6 +43,12 @@
 </table>
 <br>
 
+<br>
+ 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A91y&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight)](https://github.com/A91y?tab=repositories)
+
 ## Let's Connect! 
 
   <a href="https://instagram.com/AyushAgr91">
