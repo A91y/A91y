@@ -52,7 +52,7 @@
 ## Let's Connect! 
 
   <a href="https://instagram.com/AyushAgr91">
-    <img align="left" width="30px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
+    <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
   <a href="https://twitter.com/AyushAgr91">
     <img align="left" width="30px" src="https://cdn.svgporn.com/logos/twitter.svg" />
@@ -60,7 +60,9 @@
   <a href="https://linkedin.com/in/AyushAgr91">
     <img align="left" width="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />
   </a>
-  
+  <a href="https://ayushagr.hashnode.dev/">
+    <img align="left" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" title="Hashnode" alt="Ayush Agrawal Hashnode blog" />
+  </a>
 
 
 
