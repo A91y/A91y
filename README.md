@@ -47,7 +47,7 @@
  
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A91y&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/A91y?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/A91y?tab=repositories)
 
 ## Let's Connect! 
 
