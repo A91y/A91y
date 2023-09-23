@@ -1,5 +1,5 @@
 # Hi there :wave:
-⚫ My name is Ayush Agrawal and I am a Self-taught Programmer & Student.
+⚫ 👋 My name is Ayush Agrawal and I am a Self-taught Programmer & Student.
 
 ⚫ 🔭 I'm currently working projects based on <a href = "https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial Intelligence</a>, web-based applications.
 
