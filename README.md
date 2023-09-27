@@ -34,10 +34,12 @@
         <img width="104px" src="https://cdn.svgporn.com/logos/django-icon.svg">
       </td>
       <td width="15%" align="center">
-        <a href="https://getbootstrap.com/">
           <span><strong>BOOTSTRAP</strong></span><br><br><br>
           <img width="104px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-        </a>
+      </td>
+      <td width="15%" align="center">
+          <span><strong>REACTJS</strong></span><br><br><br>
+          <img width="104px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       </tbody>
 </table>
@@ -45,10 +47,8 @@
 
 <br>
  
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A91y&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/A91y?tab=repositories)
-
+| ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A91y&count_private=true&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/A91y?tab=repositories) |
+| - | - |
 ## Let's Connect! 
 
   <a href="https://instagram.com/AyushAgr91">
