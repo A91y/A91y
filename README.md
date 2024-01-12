@@ -4,7 +4,7 @@
 ⚫ 🔭 I'm currently working projects based on <a href = "https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial Intelligence</a>, web-based applications.
 
 ⚫ 🍀 I'm currently learning with help from <a href = "https://www.youtube.com">Youtube</a> and few other sources.
-## Technologies I Use
+## Technologies I Use 🚀
 
 <table>
   <tbody>
