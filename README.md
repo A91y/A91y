@@ -1,4 +1,4 @@
-<h1> Hey, I’m Ayush Agrawal 👋 </h1>
+# Hey, I’m Ayush Agrawal! 👋
 
 <img src="./images/Hand coding-bro.png" width="32%" alt="vector" align="right">
 
@@ -7,12 +7,12 @@
 <img height=0 width=0 src="https://komarev.com/ghpvc/?username=A91y&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
 
-👀 I am an AI, Backend and Blockchain enthusiast\
-🤖 Currently practising Blockchain and its applications\
-🫂 Looking for a collaborator on DeFi, NFT, utility based projects\
-📖 I'm looking for internship opportunities in Blockchain & Backend fields\
+👀 I am an AI, Backend, and Blockchain enthusiast\
+🤖 Currently practicing Blockchain and its applications\
+🫂 Looking for collaborators on DeFi, NFT, and utility-based projects\
+📖 I'm seeking internship opportunities in Blockchain & Backend fields\
 📫 ayush.agr254@gmail.com\
-🕸️ <a href = "https://ayushagr.me/">My Portfolio</a>
+🕸️ [My Portfolio](https://ayushagr.me/)
 
 </div>
 <br>
@@ -35,30 +35,30 @@
 
 <br>
 
-## 👩‍💻 Tech Stack
+## Tech Stack 👩‍💻
 
 ### Languages and tools I work with
 
-<div>
-<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img width="75" alt="git" src="./images/git.png">
-<img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
-<img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-<img height="45" alt="js" src="./images/js.png">
-<img height="45" alt="ts" src="./images/ts.png">
-<img height="60" alt="Java" src="./images/java.png">
-<img height="45" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="45" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="45" alt="docker" src="./images/docker.png">
-<img height="45" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
-<img height="45" alt="solidity" src="./images/solidity_logo.svg">
-<img height="45" alt="tact" src="./images/tact.png">
+<div align="center">
+  <img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img width="75" alt="git" src="./images/git.png">
+  <img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
+  <img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
+  <img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
+  <img height="45" alt="js" src="./images/js.png">
+  <img height="45" alt="ts" src="./images/ts.png">
+  <img height="60" alt="Java" src="./images/java.png">
+  <img height="45" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img height="45" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="45" alt="docker" src="./images/docker.png">
+  <img height="45" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
+  <img height="45" alt="solidity" src="./images/solidity_logo.svg">
+  <img height="45" alt="tact" src="./images/tact.png">
 </div>
 
-### Libraries I expertise in
+### Libraries I specialize in
 
-<div align = "center">
+<div align="center">
 
 ![Anchor](https://img.shields.io/badge/Anchor-royalblue.svg?style=for-the-badge&logo=Anchor&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-royalblue.svg?style=for-the-badge&logo=Django&logoColor=white)
@@ -79,9 +79,9 @@
 
 </div>
 
-## 📈 Profile Stats
+## Profile Stats 📈
 
-<div align = "center">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/A91y?tab=repositories)
 
