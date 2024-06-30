@@ -79,6 +79,13 @@
 
 </div>
 
+## Projects I'm Currently Working On 🚀
+
+- [Octasol](https://github.com/octasol/octasol)
+  : A blockchain based trustless bounty platform for open-source projects.
+- [Ludic](https://github.com/LudicFun/ludic.fun)
+  : A blockchain based gaming platform for NFTs and DeFi.
+
 ## Profile Stats 📈
 
 <div align="center">
