@@ -98,9 +98,9 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A91y&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/A91y?tab=repositories)
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A91y&count_private=true&show_icons=true&theme=tokyonight)
 --->
+![Ayush's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=A91y&theme=tokyonight&hide_border=true)
+
 </div>
 
 [![An image of @a91y's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a91y)](https://holopin.io/@a91y)
